@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# 2. Density estimation: Psychological experiments. [45 points]
-# In Kanai, R., Feilden, T., Firth, C. and Rees, G., 2011. Political orientations are correlated
-# with brain structure in young adults. Current biology, 21(8), pp.677-680., data are collected
-# to study whether or not the two brain regions are likely to be independent of each other
-# and considering di erent types of political view For this question; you can use third
-# party histogram and KDE packages; no need to write your own. The data set
-# n90pol.csv contains information on 90 university students who participated in a psychological
+# 2. Density estimation: Psychological experiments. 
+
+# This analysis is based on a subset of data from Kanai, R., Feilden, T., Firth, C. and Rees, G., 2011, analysis, 
+# in which political orientations are correlated with brain structure in young adults. (Current biology, 21(8), pp.677-680.)
+# For their analysis, data was collected to study whether or not the two brain regions are likely to be independent of each other
+# and considering different types of political views. 
+
+# The data set, n90pol.csv contains information on 90 university students who participated in this psychological
 # experiment designed to look for relationships between the size of di erent regions of the brain
 # and political views. The variables amygdala and acc indicate the volume of two particular
 # brain regions known to be involved in emotions and decision-making, the amygdala and the
@@ -16,7 +17,7 @@
 # students' locations on a  five-point scale from 1 (very conservative) to 5 (very liberal). Note
 # that in the dataset, we only have observations for orientation from 2 to 5.
 # 
-# Recall in this case, the kernel density estimator (KDE) for a density is given by
+# The kernel density estimator (KDE) for a density is given by
 # 
 # $$p(x) = \frac{1}{m}\sum_{i=1}^{m}\frac{1}{h}K(\frac{x^{i}-x}{h})$$.
 # 
