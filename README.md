@@ -1,4 +1,4 @@
-# Political-Orientation-&-Brain-Region-Development-EDA-&-Visualization-Using-Density-Estimation
+# Political-Views-&-Brain-Composition-EDA
 
 In this exploritory data analysis (EDA), we will use various statistical approaches to visualize the relationship between the composition of amygdala and acc levels in participants' brain and their political orientation:  one and two dimensional histograms and kernel density estimator (KDE); 
 scatter plots and line charts of the mean, variance, and skew, based on variable orientation and conditional distributions.  
