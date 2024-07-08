@@ -7,7 +7,4 @@ We will establish that the two variables (amygdala, acc) have a low interdepende
 
 This analysis is based on the study by Kanai, R., Feilden, T., Firth, C. and Rees, G., 2011, “ Political orientations are correlated with brain structure in young adults”. 
 
-![image](https://github.com/catherman/Political-Views-and-Brain-Development-Statistical-Analysis-and-Viz-Using-Density-Estimation/assets/43255276/871b7b47-b2d2-4f74-bbb0-fa59e1d8f73e)
-
-
 ![Screen Shot 2024-05-05 at 2 20 21 PM](https://github.com/catherman/Political-Views-and-Brain-Development-Statistical-Analysis-and-Viz-Using-Density-Estimation/assets/43255276/5efec4b2-5a1e-4643-be89-7f72fdb73ec2)
